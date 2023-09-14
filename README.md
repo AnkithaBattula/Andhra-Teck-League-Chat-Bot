@@ -1,7 +1,7 @@
 # Andhra Tech League Chatbot
 
 <p align="center">
-  <img src="ATL%20view.png" alt="Chatbot View" width="400" height="470">
+  <img src="ATL%20view.png" alt="Chatbot View" width="400" height="400">
 </p>
 
 *Welcome to the Andhra Tech League Chatbot repository!*
