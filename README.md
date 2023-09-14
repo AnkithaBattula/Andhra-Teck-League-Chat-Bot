@@ -4,11 +4,12 @@
   <img src="ATL%20view.png" alt="Chatbot View" width="350" height="400">
 </p>
 
-## Welcome to the Andhra Tech League Chatbot repository!
+<p>Welcome to the Andhra Tech League Chatbot repository!</p>
 
 The Andhra Tech League (ATL) Chatbot is an interactive virtual assistant designed to assist students participating in the ATL event. It serves as a quick and convenient way for students to find answers to frequently asked questions (FAQs) related to the event.
 
-### Technologies Used
+
+## Technologies Used
 
  **Python:** The core programming language for chatbot logic and backend development.
 
@@ -20,7 +21,8 @@ The Andhra Tech League (ATL) Chatbot is an interactive virtual assistant designe
 
  **JSON Dataset:** Contains the FAQ data used for responding to user queries.
 
-### Features
+
+## Features
 
  **FAQ Support:** Get instant responses to common questions about ATL, including schedules, rules, registration details, and more.
 
